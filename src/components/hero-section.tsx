@@ -86,8 +86,9 @@ export function HeroSection() {
 								</a>
 							</Card>
 							<a
+								target="_blank"
 								className="bg-white mt-8 text-nowrap text-black py-2 px-4  rounded-md hover:bg-zinc-200"
-								href="https://www.coursera.org/account/accomplishments/specialization/certificate/JNWSTADRGMZ3"
+								href="/michael_minaca_resume.pdf"
 							>
 								View resume
 							</a>

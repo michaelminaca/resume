@@ -92,7 +92,7 @@ export function ProjectsSection() {
 										<a
 											target="_blank"
 											className="bg-white text-nowrap text-black py-2 px-4  rounded-md hover:bg-zinc-200"
-											href="https://godot-qubit-simulator.vercel.app/QuantumQubitSimulator.html"
+											href="https://godot-qubit-simulator.vercel.app"
 										>
 											Visit the Qubit Simulator
 										</a>

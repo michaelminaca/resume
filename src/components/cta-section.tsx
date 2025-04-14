@@ -14,8 +14,9 @@ export function CallToAction() {
 			</p>
 
 			<a
-				className="bg-white text-nowrap text-black py-2 px-4  rounded-md hover:bg-zinc-200"
-				href="https://www.coursera.org/account/accomplishments/specialization/certificate/JNWSTADRGMZ3"
+				target="_blank"
+				className="bg-white  text-nowrap text-black py-2 px-4  rounded-md hover:bg-zinc-200"
+				href="/michael_minaca_resume.pdf"
 			>
 				View resume
 			</a>

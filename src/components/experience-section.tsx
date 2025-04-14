@@ -38,7 +38,7 @@ export function ExperienceSection() {
 									</div>
 								</div>
 								<p className="mb-3 text-center">Javascript & Typescript</p>
-								<Progress value={60} />
+								<Progress value={50} />
 							</div>
 							<div className="border rounded-md w-full pt-2 pb-4 px-6">
 								<div className="flex justify-center my-4">
@@ -56,7 +56,7 @@ export function ExperienceSection() {
 									</div>
 								</div>
 								<p className="mb-3 text-center">Svelte & Sveltekit</p>
-								<Progress value={60} />
+								<Progress value={40} />
 							</div>
 							<div className="border rounded-md w-full pt-2 pb-4 px-6">
 								<div className="flex justify-center my-4">
@@ -74,7 +74,7 @@ export function ExperienceSection() {
 									</div>
 								</div>
 								<p className="mb-3 text-center">Git & Github</p>
-								<Progress value={30} />
+								<Progress value={50} />
 							</div>
 							<div className="border rounded-md w-full pt-2 pb-4 px-6">
 								<div className="flex justify-center my-4">
