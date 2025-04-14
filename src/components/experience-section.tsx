@@ -102,6 +102,7 @@ export function ExperienceSection() {
 									Meta Front-End Developer Specialization - React
 								</h3>
 								<a
+									target="_blank"
 									className="bg-white text-nowrap text-black py-2 px-4  rounded-md hover:bg-zinc-200"
 									href="https://www.coursera.org/account/accomplishments/specialization/certificate/JNWSTADRGMZ3"
 								>
@@ -119,6 +120,7 @@ export function ExperienceSection() {
 									Qiskit v0.2X - Python
 								</h3>
 								<a
+									target="_blank"
 									className="bg-white text-nowrap text-black py-2 px-4  rounded-md hover:bg-zinc-200"
 									href="https://www.credly.com/badges/fd52d3d6-b06d-4efc-babf-da436e025bc7/linked_in_profile"
 								>
