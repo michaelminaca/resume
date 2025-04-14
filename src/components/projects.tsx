@@ -6,8 +6,8 @@ import {
 	CarouselNext,
 	CarouselPrevious,
 } from '@/components/ui/carousel';
-import QuantumSoarImage from '@/assets/quantumsoar.JPG';
-import QubitSimulatorImage from '@/assets/qubit_simulator.JPG';
+import QuantumSoarImage from '@/assets/quantum_soar.png
+import QubitSimulatorImage from '@/assets/qubit_simulator.png';
 
 export function ProjectsSection() {
 	return (
