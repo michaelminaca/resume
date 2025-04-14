@@ -41,7 +41,7 @@ export function HeroSection() {
 								<p className="text-center  text-sm sm:text-base font-semibold text-zinc-500">
 									at the University of Technology Sydney
 								</p>
-								<p className="text-center  text-sm sm:text-base font-semibold text-sm text-zinc-500">
+								<p className="text-center   sm:text-base font-semibold text-sm text-zinc-500">
 									(Mar 2023 - Dec 2026)
 								</p>
 							</div>
